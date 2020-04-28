@@ -8,9 +8,9 @@ import (
 	"sort"
 	"time"
 
-	"github.com/shirou/gopsutil/cpu"
-	"github.com/shirou/gopsutil/internal/common"
-	"github.com/shirou/gopsutil/mem"
+	"github.com/mageshgv/gopsutil/cpu"
+	"github.com/mageshgv/gopsutil/internal/common"
+	"github.com/mageshgv/gopsutil/mem"
 )
 
 var (
